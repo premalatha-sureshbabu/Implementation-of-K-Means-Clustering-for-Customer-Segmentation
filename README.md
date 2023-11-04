@@ -89,10 +89,6 @@ K-Means:
 
 ![Screenshot 2023-10-26 091504](https://github.com/premalatha-sureshbabu/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120620842/c5c3e48c-8a0e-4f18-bc58-6d360f3148d3)
 
-Array value of Y:
-
-![Screenshot 2023-10-26 091643](https://github.com/premalatha-sureshbabu/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120620842/5396b134-9ac1-431e-9f73-a579e0f5c4e8)
-
 Customer Segmentation:
 
 ![Screenshot 2023-10-26 091656](https://github.com/premalatha-sureshbabu/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120620842/797e5e9d-a35e-42d2-8bd9-d30c15f7eb0f)
